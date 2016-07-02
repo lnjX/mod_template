@@ -44,6 +44,13 @@ Description:
 Template is a mod for Minetest, it doesn't add anything, it's just a template.
 
 
+How to use this mod:
+--------------------
+
+See the Minetest Wiki page of this mod:
+  https://wiki.minetest.net/Mods/Mod_Template
+
+
 Notes:
 ------
 
@@ -59,4 +66,6 @@ GitHub:
 Minetest Forum:
   https://forum.minetest.net/viewtopic.php?id=15041
 
+Minetest Wiki:
+  https://wiki.minetest.net/Mods/Mod_Template
 
