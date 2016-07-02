@@ -49,3 +49,14 @@ Notes:
 
 This mod has no dependencies and should be playable with Minetest 0.4.14 or above.
 
+
+Links:
+------
+
+GitHub:
+  https://github.com/lnj2/mod_template
+
+Minetest Forum:
+  https://forum.minetest.net/viewtopic.php?id=15041
+
+
