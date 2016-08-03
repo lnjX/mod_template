@@ -1,6 +1,5 @@
--- mods/template/init.lua
--- ======================
--- See README.txt for licensing and other information.
+-- mods/modname/init.lua
+-- =====================
+-- See LICENSE.txt for licensing and README.md for other information.
 
-template = {}
-
+modname = {}
