@@ -45,7 +45,7 @@ You can report bugs or suggest ideas on [GitHub](http://github.com/lnj2/mod_temp
 * [GitHub](http://github.com/lnj2/mod_template/)
 * [Minetest Forum](http://forum.minetest.net/viewtopic.php?id=15041)
 * [Website](http://lnj2.github.io/mod_template)
-* [Minetst Wiki](http://wiki.minetest.net/Mods/Mod Template/)
+* [Minetest Wiki](http://wiki.minetest.net/Mods/Mod Template/)
 
 -- All links are optional, except one to the source code (on eg. GitHub/GitLab/...)
 
