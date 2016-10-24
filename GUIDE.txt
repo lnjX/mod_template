@@ -68,7 +68,7 @@ Guide for creating your Minetest mod
     
     screenshot.png:
     ---------------
-    Replace with your one. It's pxiel aspect ratio has to be
+    Replace with your one. It's pixel aspect ratio has to be
     3:2, common resolutions are 360x240 and 480x320.
     
     The black border in the example is optional of course.
